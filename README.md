@@ -17,7 +17,7 @@
 <img width="505" height="400" alt="Screenshot 2025-08-06 224201" src="https://github.com/user-attachments/assets/f9e08102-e43e-4c10-af40-8df1bc78a928" />
 
 ### Add Option
-<img width="1720" height="1126" alt="Screenshot 2025-08-06 224225" src="https://github.com/user-attachments/assets/4ee68161-04a2-40be-8493-cdf4495135f3" />
+<img width="520" height="426" alt="Screenshot 2025-08-06 224225" src="https://github.com/user-attachments/assets/4ee68161-04a2-40be-8493-cdf4495135f3" />
 
 ### Book Return Page
 <img width="568" height="437" alt="Screenshot 2025-08-06 224348" src="https://github.com/user-attachments/assets/00ed779a-d419-44b3-a8c7-03ab7e157585" />
